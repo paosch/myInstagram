@@ -1,24 +1,28 @@
-# README
+# railsgirls
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A program written to practise using Ruby on Rails.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+* Ruby version: 2.4.1
 
-* Configuration
+## Technologies used
+- Ruby on Rails
+- Bootstrap, for styling
+- Database
+- Devise, for authentication
 
-* Database creation
 
-* Database initialization
+## Instructions to use the program
+- clone this repository into your machine
+- run ```bundle install```
+- ```rake db:migrate```
+- ```rails server```
+- visit http://localhost:3000/
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Screenshots
 
-* Deployment instructions
+![screen shot 2018-05-30 at 12 29 57](https://user-images.githubusercontent.com/33669463/40717739-6a9850f4-6405-11e8-8f7e-0208c5103bcd.png)
 
-* ...
+![screen shot 2018-05-30 at 12 30 31](https://user-images.githubusercontent.com/33669463/40717744-6c936c18-6405-11e8-9039-8c9f8aa72239.png)
